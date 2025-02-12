@@ -1,0 +1,41 @@
+body.idk{
+    background-color: ivory;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+body{
+    text-align: center;
+    background-color: ivory;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+a.navigate{    
+    text-align: center;
+    margin: 50px;
+    border: red solid 1px;
+    border-color: rgb(255, 145, 0);
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 3px;
+    box-shadow: 0 0 10px rgb(1, 39, 1);
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    margin-right: 410px;
+    
+}
+hr {
+    border: 1px solid rgb(252, 124, 50);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(1, 29, 1);
+}
